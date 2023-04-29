@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\LucasvanDam\source\repos\Tek\TekEditor\App.xaml
-42038757441
+71873163845
 
-141242946451
+19-1593107928
 1941709816142
-GameProject\NewProjectView.xaml;GameProject\OpenProjectView.xaml;GameProject\ProjectBrowserDialog.xaml;MainWindow.xaml;
+Editors\WorldEditor\ProjectLayoutView.xaml;Editors\WorldEditor\WorldEditorView.xaml;GameProject\NewProjectView.xaml;GameProject\OpenProjectView.xaml;GameProject\ProjectBrowserDialog.xaml;MainWindow.xaml;Utilities\UndoRedoView.xaml;
 
-False
+True
 

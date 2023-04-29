@@ -32,6 +32,7 @@ namespace TekEditor.Utilities
                 using var fs = new FileStream(path, FileMode.Open);
                 var serializer = new DataContractSerializer(typeof(T));
                 T instance = (T)serializer.ReadObject(fs);
+                fs.Close();
                 return instance;
             }
             catch (Exception ex)

@@ -18,8 +18,8 @@ namespace TekEditor
 
         private void OnMainWindowClosing(object sender, CancelEventArgs e)
         {
-            Closing -= OnMainWindowClosing;
             Project.Current?.Unload();
+            Closing -= OnMainWindowClosing;
         }
 
         private void OnMainWindowLoaded(object sender, RoutedEventArgs e)

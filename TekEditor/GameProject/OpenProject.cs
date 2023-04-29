@@ -80,7 +80,7 @@ namespace TekEditor.GameProject
             }
             WriteProjectData();
 
-            return null;
+            return Project.Load(project.FullPath);
         }
 
         static OpenProject()

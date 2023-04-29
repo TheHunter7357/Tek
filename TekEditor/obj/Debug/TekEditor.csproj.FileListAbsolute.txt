@@ -26,3 +26,9 @@ C:\Users\LucasvanDam\source\repos\Tek\TekEditor\obj\Debug\GameProject\OpenProjec
 C:\Users\LucasvanDam\source\repos\Tek\TekEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\LucasvanDam\source\repos\Tek\TekEditor\obj\Debug\GameProject\NewProjectView.baml
 C:\Users\LucasvanDam\source\repos\Tek\TekEditor\obj\Debug\GameProject\OpenProjectView.baml
+C:\Users\LucasvanDam\source\repos\Tek\TekEditor\obj\Debug\Editors\WorldEditor\WorldEditorView.g.cs
+C:\Users\LucasvanDam\source\repos\Tek\TekEditor\obj\Debug\Editors\WorldEditor\WorldEditorView.baml
+C:\Users\LucasvanDam\source\repos\Tek\TekEditor\obj\Debug\Editors\WorldEditor\ProjectLayoutView.g.cs
+C:\Users\LucasvanDam\source\repos\Tek\TekEditor\obj\Debug\Editors\WorldEditor\ProjectLayoutView.baml
+C:\Users\LucasvanDam\source\repos\Tek\TekEditor\obj\Debug\Utilities\UndoRedoView.g.cs
+C:\Users\LucasvanDam\source\repos\Tek\TekEditor\obj\Debug\Utilities\UndoRedoView.baml
