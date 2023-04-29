@@ -5,5 +5,5 @@
     <a:string>GameCode</a:string>
   </Folders>
   <ProjectFile>project.tek</ProjectFile>
-  <ProjectType>Empty Project</ProjectType>
+  <ProjectType>Top-Down Project</ProjectType>
 </ProjectTemplate>
